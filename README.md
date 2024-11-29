@@ -17,7 +17,7 @@ Building the onchain economy with @base. Fishing is just the start. 🐟 Develop
 - **Support Proxy**
 
 # Get Bearer Token
-- Open Fishing Frienzy Game then ```inspect```
+- Open [Fishing Frienzy Game](https://fishingfrenzy.co?code=S1TMLK) then ```inspect```
 - Select Console
 ```
 allow pasting
