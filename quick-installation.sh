@@ -15,7 +15,7 @@ echo -e "\033[1;34m@Ryddd | Testnet, Node Runer, Developer, Retrodrop\033[1;34m"
 sleep 4
 
 # Update package
-echo -e "\033[1;32Update & Upgrade package...\033[0m"
+echo -e "\033[1;32mUpdate & Upgrade package...\033[0m"
 sudo apt update && sudo apt upgrade -y
 sudo apt install git -y
 
