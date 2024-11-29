@@ -26,6 +26,7 @@ allow pasting
 localStorage.getItem('fishAuth')
 ```
 - The text that appears is your token, copy the text and paste to ``tokens.txt`` perlines
+- Insert your proxy to ```proxy.txt```
 
 # Setup your bot
 ```
